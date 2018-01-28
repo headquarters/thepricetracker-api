@@ -1,0 +1,22 @@
+{
+  "name": "thepricetracker-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "Unlicense",
+  "dependencies": {
+    "fortune": "^5.4.1",
+    "fortune-http": "^1.2.8",
+    "fortune-json-api": "^2.1.2"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.0",
+    "r2": "^2.0.0"
+  }
+}
